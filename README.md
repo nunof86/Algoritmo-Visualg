@@ -1,2 +1,2 @@
 # Algoritmo Visualg
- Curso de algoritmo do Curso em Vídeo
+ Curso de algoritmo do **Curso em Vídeo**
