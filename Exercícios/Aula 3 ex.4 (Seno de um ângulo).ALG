@@ -1,7 +1,7 @@
 Algoritmo "semnome"
-// Disciplina  :  [Linguagem e LÃ³gica de ProgramaÃ§Ã£o] 
+// Disciplina  :  [Linguagem e Lógica de Programação] 
 // Professor   : Antonio Carlos Nicolodi 
-// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
+// Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 06/04/2020
 Var
@@ -9,11 +9,10 @@ Var
 
 
 Inicio
-      Escreva ("Diga um Ã¢ngulo ")
+      Escreva ("Diga um ângulo ")
       Leia (angulo)
       s <- sen(GraupRad(angulo))
-      Escreva ("O seno de " ,angulo, " Ã© igual a " ,s)
-      
+      Escreva ("O seno de " ,angulo, " é igual a " ,s)
 
 
 Fimalgoritmo
